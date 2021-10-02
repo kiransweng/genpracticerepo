@@ -19,5 +19,7 @@
 |git push|code will go from Local repo to remote repo|
 
 ###### Guidelines
+- Point1
+- Point2
 
 
