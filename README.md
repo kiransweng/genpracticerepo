@@ -9,3 +9,6 @@
 - git commit -m , code will go from Staging area to Local repo
 - git push - code will go from Local repo to remote repo
 - git status
+
+###### Advanced Commands
+
